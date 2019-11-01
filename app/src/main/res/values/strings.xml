@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MorseCode</string>
+    <string name="input">Input Text</string>
+    <string name="output">Output Text</string>
+    <string name="input_hint">Input text to Decode/Encode</string>
+    <string name="decode">Decode</string>
+    <string name="encode">Encode</string>
+    <string name="list">List</string>
+    <string name="action">Translate</string>
+    <string name="image_description">Taken picture</string>
+    <string name="copy">Copy to Clipboard!</string>
+    <string name="log">OCR log:\n</string>
+</resources>

@@ -1,0 +1,18 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ocr.morsecode.MainActivity">
+    <item
+        android:id="@+id/decode"
+        android:title="@string/decode"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/encode"
+        android:title="@string/encode"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/list"
+        android:title="@string/list"
+        app:showAsAction="always" />
+</menu>
